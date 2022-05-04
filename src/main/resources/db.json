@@ -1,0 +1,16 @@
+{
+  "methods": {
+    "--help": "--help",
+    "@types/jest": "^23.3.12"
+  },
+  "db": {
+    "string": {
+      "name": "hangman",
+      "age": 16
+    },
+    "hash": {
+    }
+
+  },
+  "version": "0.1.0"
+}
