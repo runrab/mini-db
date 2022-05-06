@@ -1,7 +1,8 @@
 {
   "methods": {
     "--help": "--help",
-    "@types/jest": "^23.3.12"
+    "get": "get key",
+    "set": "set key value"
   },
   "db": {
     "string": {
@@ -11,6 +12,9 @@
     "hash": {
     }
 
+  },
+  "log": {
+      "20220504172533": "{success}"
   },
   "version": "0.1.0"
 }

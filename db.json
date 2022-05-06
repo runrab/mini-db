@@ -1,0 +1,1 @@
+{"log":{"20220504174453":"{\"methods\":\"set\",\"status\":\"success\"}","20220504172533":"{success}","20220504173900":"{\"methods\":\"set\",\"status\":\"success\"}"},"methods":{"set":"set key value","--help":"--help","get":"get key"},"version":"0.1.0","db":{"string":{"demo":"demo2","name":"lisi","age":16}}}

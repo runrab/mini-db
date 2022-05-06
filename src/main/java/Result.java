@@ -6,6 +6,8 @@ public class Result {
     private String version;
     private Map<String,Map> db;
 
+    private Map<String,String> log;
+
     public Object getMethods() {
         return methods;
     }
@@ -28,5 +30,13 @@ public class Result {
 
     public void setDb(Map<String, Map> db) {
         this.db = db;
+    }
+
+    public Map<String, String> getLog() {
+        return log;
+    }
+
+    public void setLog(Map<String, String> log) {
+        this.log = log;
     }
 }
